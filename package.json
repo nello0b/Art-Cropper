@@ -1,0 +1,26 @@
+{
+  "name": "artcropper",
+  "version": "1.0.0",
+  "description": "learning how to make a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "netanel b",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nello0b/Art-Cropper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nello0b/Art-Cropper/issues"
+  },
+  "homepage": "https://github.com/nello0b/Art-Cropper#readme"
+}
