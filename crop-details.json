@@ -1,0 +1,21 @@
+{
+    "ignitionSymbol": "/",
+    "normalCrop": {
+        "prompt": "crop",
+        "left": 55,
+        "top": 115,
+        "imageHeight": 320,
+        "imageWidth": 320,
+        "cardHeight": 620,
+        "cardWidth": 420
+    },
+    "pendulumCrop": {
+        "prompt": "crop-pend",
+        "left": 35,
+        "top": 145,
+        "imageHeight": 350,
+        "imageWidth": 470,
+        "cardHeight": 795,
+        "cardWidth": 545
+    }
+}

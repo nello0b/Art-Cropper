@@ -1,6 +1,6 @@
 const { Events, AttachmentBuilder } = require('discord.js');
 const { createCanvas, loadImage } = require('canvas');
-const { pendulumCrop, ignitionSymbol } = require('../config.json');
+const { pendulumCrop, ignitionSymbol } = require('../crop-details.json');
 
 module.exports = {
 	name: Events.MessageCreate,
