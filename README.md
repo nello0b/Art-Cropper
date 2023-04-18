@@ -13,7 +13,7 @@ To set up the project, follow these steps:
 1. Clone the repository using `git clone https://github.com/nello0b/Art-Cropper.git`.
 2. Navigate to the project directory using `cd Art-Cropper`.
 3. Run `npm install` to install the dependencies.
-4. Set up a Discord bot and give it the "MESSAGE CONTENT INTENT" in the "Discord Developer Portal".
+4. Set up a [Discord bot](https://discord.com/developers/applications) and give it the "MESSAGE CONTENT INTENT" in the "Discord Developer Portal".
 5. Take the token ID and place it in the `config-demo.json` file.
 6. Rename `config-demo.json` to `config.json`.
 7. Create an invite link for the bot by going to your Discord Developer Portal and clicking on your bot application. Under the "OAuth2" tab, select `bot` as the scope and then select the permissions: `Send Messages`,`Send Messages in Threads`, `Attach Files` and `Read Message History`. Copy the generated link and invite the bot to your Discord server.
