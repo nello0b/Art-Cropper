@@ -1,6 +1,6 @@
 # Art_Cropper
 
-This is a Discord bot programmed with Node.js that can crop the art out of Yu-Gi-Oh! cards. All the user needs to do to use the bot is write `~crop` or `~crop-pend` (for Pendulum Monsters) and attach the images of the cards they want cropped. The bot will then send back the art of those cards.
+This is a Yu-Gi-Oh! card cropping Discord bot programmed with Node.js. The bot can quickly and easily crop the art out of Yu-Gi-Oh! cards. Users can simply write `~crop` or `~crop-pend` (for Pendulum Monsters) and attach images of the cards they want cropped. The bot will then automatically send back the cropped art of the cards, making it easy for users to share and use the card art in their Yu-Gi-Oh! related projects or discussions. With its simple and user-friendly interface, this bot is the perfect addition to any Yu-Gi-Oh! Discord server.
 
 ## Demo
 
