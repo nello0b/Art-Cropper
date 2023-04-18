@@ -20,7 +20,6 @@ async function main() {
 	for (const file of eventFiles) {
 		const filePath = path.join(eventsPath, file);
 		const event = require(filePath);
-		console.log(`${file}`);
 		if (event.once) {
 			client.once(event.name, (...args) => event.execute(...args));
 		}
