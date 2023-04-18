@@ -1,5 +1,5 @@
 {
-    "ignitionSymbol": "/",
+    "ignitionSymbol": "~",
     "normalCrop": {
         "prompt": "crop",
         "left": 55,
