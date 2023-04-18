@@ -4,7 +4,7 @@ This is a Discord bot programmed with Node.js that can crop the art out of Yugio
 
 ## Demo
 
-![image](https://user-images.githubusercontent.com/72969087/232903501-5f5230be-4d3d-42ca-abef-e9a660b275de.png)
+![ezgif-1-fc0ce69cda](https://user-images.githubusercontent.com/72969087/232903628-11961666-d8cc-4df6-a759-857ba26b66cb.gif)
 
 ## Setup
 
