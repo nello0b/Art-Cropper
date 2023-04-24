@@ -19,6 +19,8 @@ To set up the project, follow these steps:
 7. Create an invite link for the bot by going to your Discord Developer Portal and clicking on your bot application. Under the "OAuth2" tab, select `bot` as the scope and then select the permissions: `Send Messages`,`Send Messages in Threads`, `Attach Files` and `Read Message History`. Copy the generated link and invite the bot to your Discord server.
 8. Start the bot using `node .`.
 
+Note: If you want to run this bot efficiently and ensure it stays running even if the server crashes or restarts, it's recommended to use a process manager like PM2. With PM2, you can easily start, stop, and monitor the bot, and it will automatically restart if it crashes. To use PM2 with this bot, simply install PM2 on your server and start the bot using pm2 start index.js. For more information on PM2, refer to the [official documentation](https://pm2.keymetrics.io/docs/usage/quick-start/).
+
 If you see "Ready! Logged in as [Your Bot Name]" you are done and ready to crop!
 
 ## Usage
